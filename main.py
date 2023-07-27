@@ -4,7 +4,7 @@ import weather
 
 
 @click.command()
-@click.option('--city', prompt='Your name', help='Enter city name', default='Pune')
+@click.option('--city', help='Enter city name', default='Pune')
 def entry(city):
     """This function takes command line parameters as inputs and prints them."""
     print(f"Querying weather for {city}.")
