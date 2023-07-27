@@ -1,0 +1,5 @@
+# generate a api config file
+weather:
+  openweather:
+    api_key: "your api key"
+    units: "metric"
