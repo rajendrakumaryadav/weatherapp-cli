@@ -101,9 +101,16 @@ Pressure: 1000
 Wind Speed: 1.54
 ```
 
----
-> Author Name: Rajendra Kumar Yadav
-> Author Medium Profile: https://medium.com/@_rajendrayadav
-> Author LinkedIn Profile: https://www.linkedin.com/in/yadavrajendrakumar/
----
+```console
+$ info
+> Please wait...
+
+--------------------------------
+Author: Rajendra Kumar R Yadav
+--------------------------------
+Location: /home/rajendraryadav
+Frameworks: NextJs
+Languages: C, PHP, Python, SQL, Typescript, Javascript
+---------------------------------
+```
 With :heart: by Rajendra Kumar Yadav from India.
